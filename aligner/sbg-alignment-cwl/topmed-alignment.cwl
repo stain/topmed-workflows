@@ -1,6 +1,5 @@
 class: Workflow
 cwlVersion: v1.0
-id: topmed_alignment
 doc: >-
   A CWL wrapper of the TopMed alignment workflow described here:
   https://github.com/statgen/docker-alignment
